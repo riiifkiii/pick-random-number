@@ -1,4 +1,6 @@
-# [Pick Random Number Generator](https://riiifkiii.github.io/PickRandomNumber)
+<h1><a href="https://riiifkiii.github.io/PickRandomNumber" target="_blank">Pick Random Number Generator</a></h1>
+
+![image](https://github.com/riiifkiii/pick-random-number/assets/24253726/8fd9f7b8-4d03-448e-bdf3-770c2097928d)
 
 ## Variabel State
 
